@@ -65,7 +65,3 @@ python run_game.py
 ## 開発者
 
 - Claude AIアシスタント「Cline」
-
-## ライセンス
-
-このプロジェクトはMITライセンスの下で公開されています。
