@@ -67,3 +67,7 @@ python run_game.py
 ## 開発者
 
 - Claude AIアシスタント「Cline」
+
+## 使用音源
+音楽：BGMer
+http://bgmer.net
