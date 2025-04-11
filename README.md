@@ -55,6 +55,7 @@ python run_game.py
 - **Enterキー**: 決定
 
 ### ゲームの目的
+![イメージ](https://github.com/Murakami-Daiki/cline-sample-2dgame/tree/ForImage/2dgame-sample.png)
 
 敵を踏んだり、穴を飛び越えたりしながら、ステージの右端にあるゴールを目指しましょう！
 
